@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Camera</string>
+
+    <string name="info_permissions">Wymagane są uprawnienia!</string>
+    <string name="info_permissions_content">Aplikacja wymaga kilku uprawnień, aby działać poprawnie. Nadaj je w ustawieniach</string>
+
+    <string name="button_cancel">Anuluj</string>
+    <string name="button_settings">Ustawienia</string>
+    <string name="preview_description">Zdjęcie lub nagranie będzie tutaj pokazane</string>
+    <string name="button_take_picture">Zrób zdjęcie</string>
+    <string name="button_record_video">Nagraj wideo</string>
+    <string name="button_upload_content">Wgraj na serwer</string>
+    <string name="button_upload_ok">OK</string>
+
+    <string name="dialog_uploading">Trwa wgrywanie&#8230;</string>
+
+    <string name="error_device_no_camera">Twoje urządzenie nie posiada kamery!</string>
+    <string name="error_no_internet">Brak połączenia z internetem!</string>
+    <string name="error_http_status_code">Wystąpił błąd! Kod błędu: </string>
+    <string name="error_file_path">Brak ścieżki do pliku!</string>
+    <string name="error_image_canceled">Użytkownik anulował dodanie zdjęcia</string>
+    <string name="error_video_canceled">Użytkownik anulował dodanie filmu</string>
+    <string name="error_image_err">Wystąpił nieznany błąd podczas dodawania zdjęcia!</string>
+    <string name="error_video_err">Wystąpił nieznany błąd podczas dodawania filmu!</string>
+
+    <string name="response_from_server">Odpowiedź z serwera:</string>
+    <string name="response_userid">UserID: #</string>
+    <string name="response_email">EMail:</string>
+    <string name="response_error">Błąd:</string>
+    <string name="response_message">Wiadomość:</string>
+    <string name="response_fileurl">Adres:</string>
+</resources>
